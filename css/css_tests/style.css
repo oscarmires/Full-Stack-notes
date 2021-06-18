@@ -1,0 +1,11 @@
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    height: 200px;
+}
+
+.item {
+    border: 1px solid blue;
+    height: calc(100% - 10px);
+
+}
