@@ -15,3 +15,8 @@ Content Delivery Network. [Read more](https://web.dev/content-delivery-networks/
 ## Web page foundations
 You don't need a framework article: https://www.taniarascia.com/you-dont-need-a-framework/
 
+## Quotes
+> The key difference between a library and a framework is “Inversion of Control”. When calling a method from a library, the developer is in control. With a framework, the control is inverted: the framework calls the developer's code.
+
+## CORS (Cross-Origin Resource Sharing)
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
